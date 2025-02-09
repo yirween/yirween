@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我是yirween！当然你也可以叫我繄溦。
+
+以下是我的小站，不过都没完工（
+- [yirween.github.io](yirween.github.io)
+- [yirween.netlify.app/(博客站)](https://yirween.netlify.app/)
+
