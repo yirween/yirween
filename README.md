@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 目标是保持快乐！
 
 以下是我的小站，现在正在重新装修，还没完工（
-- [yirween.netlify.app](https://yirween.netlify.app/)
+- [yirween.com](https://yirween.com/)
 
